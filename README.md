@@ -1,16 +1,23 @@
-## Hi there 👋
+[![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/IsratIJK/IsratIJK)
 
-<!--
-**IsratIJK/IsratIJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, everyone! <img src="./img/wave.gif" width="35px" height= "35px">
 
-Here are some ideas to get you started:
+Israt Jahan Khan is a **Research Assistant (RA)** at [United International University](https://www.uiu.ac.bd/). She is also a graduate with a major in **Data Science** from [United International University](https://www.uiu.ac.bd/), with a profound enthusiasm for Machine Learning (ML), Deep Learning (DL), and their transformative applications. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+### Kaggle Status
+
+
+<div>
+  <a href="https://www.kaggle.com/isratjahankhan">
+    <img src="./kaggle-badges/NotebooksRank/plastic-white.svg" alt="KaggleNotebooksRank" />
+  </a>
+  <a href="https://www.kaggle.com/isratjahankhan">
+    <img src="./kaggle-badges/DatasetsRank/plastic-black.svg" alt="KaggleDatasetRank" />
+  </a>
+</div>
+
+---

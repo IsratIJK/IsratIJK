@@ -2,7 +2,7 @@
 
 # Hello, everyone! <img src="./img/wave.gif" width="35px" height= "35px">
 
-Israt Jahan Khan is a **Research Assistant (RA)** at [United International University](https://www.uiu.ac.bd/). She is also a graduate with a major in **Data Science** from [United International University](https://www.uiu.ac.bd/), with a profound enthusiasm for Machine Learning (ML), Deep Learning (DL), and their transformative applications. 
+Israt Jahan Khan is an **Instructor (Earlier: Contractual Lecturer)** and **Research Assistant (RA)** at [United International University](https://www.uiu.ac.bd/). She is also a graduate with a major in **Data Science** from [United International University](https://www.uiu.ac.bd/), with a profound enthusiasm for Machine Learning (ML), Deep Learning (DL), and their transformative applications. 
 
 
 

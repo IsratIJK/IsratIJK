@@ -1,11 +1,12 @@
 [![Contribute in the browser](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/IsratIJK/IsratIJK)
 
-# Hello, everyone! <img src="./img/wave.gif" width="35px" height= "35px">
+# Hello, everyone! <img src="./img/wave.gif" width="35px" height="35px">
 
-Israt Jahan Khan is an **Instructor (Earlier: Contractual Lecturer)** and **Research Assistant (RA)** at [United International University](https://www.uiu.ac.bd/). She is also a graduate with a major in **Data Science** from [United International University](https://www.uiu.ac.bd/), with a profound enthusiasm for Machine Learning (ML), Deep Learning (DL), and their transformative applications. 
+Hi! I'm Israt Jahan Khan 👋  
 
+I am currently pursuing my **M.Sc. in Computer Science and Engineering (Data Science)** at [**BRAC University**](https://www.bracu.ac.bd/). Alongside my studies, I work as an **Instructor** and **Research Assistant (RA)** at [**United International University**](https://www.uiu.ac.bd/) (UIU), where I previously completed my undergraduate degree in **Data Science**.
 
-
+My interests lie in **Machine Learning, Deep Learning, and building impactful AI solutions**.
 ---
 
 ### Kaggle Status
@@ -20,4 +21,3 @@ Israt Jahan Khan is an **Instructor (Earlier: Contractual Lecturer)** and **Rese
   </a>
 </div>
 
----
